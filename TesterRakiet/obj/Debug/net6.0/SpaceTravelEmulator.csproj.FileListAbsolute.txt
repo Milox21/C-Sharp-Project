@@ -1,0 +1,15 @@
+C:\Users\milox\source\repos\TesterRakiet\TesterRakiet\bin\Debug\net6.0\SpaceTravelEmulator.exe
+C:\Users\milox\source\repos\TesterRakiet\TesterRakiet\bin\Debug\net6.0\SpaceTravelEmulator.deps.json
+C:\Users\milox\source\repos\TesterRakiet\TesterRakiet\bin\Debug\net6.0\SpaceTravelEmulator.runtimeconfig.json
+C:\Users\milox\source\repos\TesterRakiet\TesterRakiet\bin\Debug\net6.0\SpaceTravelEmulator.dll
+C:\Users\milox\source\repos\TesterRakiet\TesterRakiet\bin\Debug\net6.0\SpaceTravelEmulator.pdb
+C:\Users\milox\source\repos\TesterRakiet\TesterRakiet\obj\Debug\net6.0\SpaceTravelEmulator.csproj.AssemblyReference.cache
+C:\Users\milox\source\repos\TesterRakiet\TesterRakiet\obj\Debug\net6.0\SpaceTravelEmulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milox\source\repos\TesterRakiet\TesterRakiet\obj\Debug\net6.0\SpaceTravelEmulator.AssemblyInfoInputs.cache
+C:\Users\milox\source\repos\TesterRakiet\TesterRakiet\obj\Debug\net6.0\SpaceTravelEmulator.AssemblyInfo.cs
+C:\Users\milox\source\repos\TesterRakiet\TesterRakiet\obj\Debug\net6.0\SpaceTravelEmulator.csproj.CoreCompileInputs.cache
+C:\Users\milox\source\repos\TesterRakiet\TesterRakiet\obj\Debug\net6.0\SpaceTravelEmulator.dll
+C:\Users\milox\source\repos\TesterRakiet\TesterRakiet\obj\Debug\net6.0\refint\SpaceTravelEmulator.dll
+C:\Users\milox\source\repos\TesterRakiet\TesterRakiet\obj\Debug\net6.0\SpaceTravelEmulator.pdb
+C:\Users\milox\source\repos\TesterRakiet\TesterRakiet\obj\Debug\net6.0\SpaceTravelEmulator.genruntimeconfig.cache
+C:\Users\milox\source\repos\TesterRakiet\TesterRakiet\obj\Debug\net6.0\ref\SpaceTravelEmulator.dll
